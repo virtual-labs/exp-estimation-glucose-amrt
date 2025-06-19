@@ -4,7 +4,7 @@
 
 
 ## Follow the procedure to access the animation of the experiment. 
-
+   <link rel="stylesheet" href="./images/flash/main.css">
 <div class="download-section" style="text-align: center;">
     <a href="simulation/flash/flashplayer.exe" class="download-link" download>
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="white" viewBox="0 0 16 16">
@@ -33,10 +33,10 @@
       ▶ Windows system
     </div>
     <div class="accordion-body">
-      <div><strong>Step 1:</strong> Open Flash Player<br><img src="images/figure1.jpg" alt="Flash Debugger"></div>
+      <div><strong>Step 1:</strong> Open Flash Player<br><img src="images/flash/figure1.jpg" alt="Flash Debugger"></div>
       <div><strong>Step 2:</strong> Copy the Flash content link by clicking the 📋 icon provided above.</div>
       <div><strong>Step 3:</strong> Click <em>File → Open</em> from the Flash Player menu.</div>
-      <div><strong>Step 4:</strong> Paste the Flash content link in the Open window of the Flash Player and click the OK button.<br><img src="images/figure2.jpg" alt="Open Flash Link"></div>
+      <div><strong>Step 4:</strong> Paste the Flash content link in the Open window of the Flash Player and click the OK button.<br><img src="images/flash/figure2.jpg" alt="Open Flash Link"></div>
     </div>
   </div>
 
@@ -50,14 +50,14 @@
       <div>For Ubuntu <code>sudo apt update</code><br><code>sudo apt install wine</code></div>
       <div>For Fedora <code>sudo dnf install wine</code></div>
       <div><strong>Step 2:</strong> Open terminal and navigate to the folder where the Flash Player is downloaded.</div>
-      <div><strong>Step 3:</strong> Open the Flash Player using <code>wine flashplayer.exe</code>.<br><img src="images/figure1.jpg" alt="Flash Debugger"></div>
+      <div><strong>Step 3:</strong> Open the Flash Player using <code>wine flashplayer.exe</code>.<br><img src="images/flash/figure1.jpg" alt="Flash Debugger"></div>
       <div><strong>Step 4:</strong> Copy the Flash content link by clicking the 📋 icon provided above.</div>
       <div><strong>Step 5:</strong> Click <em>File → Open</em> from the Flash Player menu.</div>
-      <div><strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br><img src="images/figure2.jpg" alt="Open Flash Link"></div>
+      <div><strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br><img src="images/flash/figure2.jpg" alt="Open Flash Link"></div>
     </div>
   </div>
 </div>
 
 
 	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+        <script src="images/flash/main.js"></script>
