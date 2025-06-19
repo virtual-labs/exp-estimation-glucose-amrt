@@ -4,7 +4,7 @@
 
 
 ## Follow the procedure to access the animation of the experiment. 
-   <link rel="stylesheet" href="./images/flash/main.css">
+   <link rel="stylesheet" href="images/flash/main.css">
 <div class="download-section" style="text-align: center;">
     <a href="simulation/flash/flashplayer.exe" class="download-link" download>
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="white" viewBox="0 0 16 16">
