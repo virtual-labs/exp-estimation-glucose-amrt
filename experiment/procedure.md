@@ -18,8 +18,8 @@
 
 <p><h4>Flash Content link: </h4> </p>
 <span class="link-text" id="copyText">https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</span>
-
- 
+<br><br>
+ <pre>https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</pre>
 
 
 <h2>Instructions to run the Flash simulator on your system:</h2>
