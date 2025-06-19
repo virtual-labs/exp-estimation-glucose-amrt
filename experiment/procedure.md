@@ -25,12 +25,12 @@
 
 <strong>▶ Windows system</strong><br>
 <strong>Step 1:</strong> Open Flash Player<br>
-<img src="images/flash/figure1.jpg" alt="Flash Debugger"><br>
+<img src="images/flash/figure1.jpg" alt="Flash Debugger" widht="300px"><br>
 <strong>Step 2:</strong> Copy the Flash content link provided above.<br>
 
 <strong>Step 3:</strong> Click <em>File → Open</em> from the Flash Player menu.<br>
 <strong>Step 4:</strong> Paste the Flash content link in the Open window of the Flash Player and click the OK button.<br>
-<img src="images/flash/figure2.jpg" alt="Open Flash Link"><br><br>
+<img src="images/flash/figure2.jpg" alt="Open Flash Link" width="400px"><br><br>
 
 <strong>▶ Linux system</strong><br>
 <strong>Step 1:</strong> Install <code>Wine</code> on your Linux system.<br>
@@ -39,11 +39,11 @@ For Ubuntu: <code>sudo apt update</code><br>
 For Fedora: <code>sudo dnf install wine</code><br>
 <strong>Step 2:</strong> Open terminal and navigate to the folder where the Flash Player is downloaded.<br>
 <strong>Step 3:</strong> Open the Flash Player using <code>wine flashplayer.exe</code><br>
-<img src="images/flash/figure1.jpg" alt="Flash Debugger"><br>
+<img src="images/flash/figure1.jpg" alt="Flash Debugger" width="500px"><br>
 <strong>Step 4:</strong> Copy the Flash content link provided above.<br>
 <strong>Step 5:</strong> Click <em>File → Open</em> from the Flash Player menu.<br>
 <strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br>
-<img src="images/flash/figure2.jpg" alt="Open Flash Link">
+<img src="images/flash/figure2.jpg" alt="Open Flash Link" width="600px">
 
 
 
