@@ -11,14 +11,13 @@
         <path d="M.5 9.9V14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V9.9a.5.5 0 0 0-1 0V14H1V9.9a.5.5 0 0 0-1 0z"/>
         <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
       </svg>
-      Download Flash Player
+      Click Here to Download Flash Player
     </a>
   </div>
 
 
 <p><h4>Flash Content link: </h4> </p>
-<span class="link-text" id="copyText">https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</span>
-<br><br>
+
  <pre>https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</pre>
 
 
