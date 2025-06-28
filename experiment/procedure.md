@@ -6,10 +6,10 @@
 
 <style>
 .download-section {
-  background: #fff;
-  padding: 20px;
+  /* background: #fff; */
+  padding: 5px;
   border-radius: 12px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .download-link {
@@ -92,10 +92,7 @@
     </a>
   </div>
 
-<p><h4>Flash Content link: </h4> </p>
-
- <pre>https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</pre>
-
+<br>
 <div class="copy-container">
   <p><h4>Flash Content link:</h4></p>
   <span class="link-text" id="copyText"></span>
