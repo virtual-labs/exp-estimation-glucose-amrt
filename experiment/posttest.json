@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The structure pictured is the Haworth structure of ………",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "beta-D-glucose",
+        "b": "beta-D-galactose",
+        "c": "alpha-D-galactose",
+        "d": "alpha-D-glucose"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "beta-D-glucose is commonly shown in Haworth forms; likely correct if image was shown.",
+        "b": "Galactose differs in configuration at C4 from glucose.",
+        "c": "Incorrect alpha anomer assumed without image.",
+        "d": "Alpha and beta differ in OH orientation at anomeric carbon."
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Methylene blue is a heterocyclic aromatic chemical compound with the molecular formula ------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "C₁₆H₁₈N₃SCl",
+        "b": "C₁₆H₁₈N₃Cl",
+        "c": "C₁₆H₁₈N₃SCl₂",
+        "d": "C₁₆H₁₈N₂SCl"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct molecular formula for methylene blue.",
+        "b": "Incorrect, missing sulfur atom.",
+        "c": "Incorrect, has one extra chlorine atom.",
+        "d": "Incorrect, nitrogen count is off."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
