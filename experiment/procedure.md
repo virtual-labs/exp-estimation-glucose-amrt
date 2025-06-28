@@ -1,5 +1,108 @@
 ### Procedure
 
+<p><strong>Laboratory Procedure for Estimation of Glucose:</strong></p>
+
+<h4>Standardisation of Fehling’s Solution:</h4>
+
+<p>Prepare a standard glucose solution by accurately weighing 1.25&nbsp;g of glucose AR and dissolving it in a 250&nbsp;mL standard flask with water. Make up the volume to the mark.</p>
+
+<p>Pipette out 20&nbsp;mL each of Fehling’s A and Fehling’s B into a dry conical flask and shake thoroughly. Then pipette 20&nbsp;mL of this freshly mixed Fehling’s solution into a clean conical flask and dilute it with 20&nbsp;mL of water. Heat the solution to 70&nbsp;°C over wire gauze.</p>
+
+<p>Take the standard glucose solution in a burette and add it slowly to the boiling Fehling’s solution until the blue colour completely disappears. Maintain the temperature during each addition. Repeat the titration by steadily adding glucose solution to the boiling Fehling’s solution, and as you near the end point, switch to drop-by-drop addition until the blue colour just disappears.</p>
+
+<p><em>Alternative method:</em> To detect the end point more accurately, add 5–6 drops of methylene blue indicator to the Fehling’s solution. Then, add glucose solution drop by drop. If methylene blue is used, the Fehling’s solution should not be boiled for more than 2–3 minutes at a time. The end point is indicated by the disappearance of the blue colour.</p>
+
+<hr>
+
+<h4>Simulator Procedure:</h4>
+
+<ol>
+  <li>Choose the titrant.</li>
+  <li>Choose the titrate.</li>
+  <li>Select the normality of the titrate.</li>
+  <li>Select the volume of the titrate.</li>
+  <li>Start titration.</li>
+  <li>When the blue colour just fades, select the indicator.</li>
+  <li>Continue the titration.</li>
+  <li>Note the end point at the colour change of the solution.</li>
+
+  $$N_1V_1=N_2V_2$$
+  
+  <li>From the final reading, calculate the normality of the titrant using the appropriate equation.</li>
+  <li>After finding the normality, the amount of substance in the whole of the given solution can be calculated by the equation:</li>
+</ol>
+
+$$\frac{\text{Atomic weight}\times \text{Normality}\times \text{Volume of the given solution upto which it is made up}}{1000}$$
+
+
+**Note**: 10 times dilute the stoke solution and that is used as titrant.
+Atomic weight of Glucose=180.1559 g/mol.
+
+<p><strong>Observations and Calculations:</strong></p>
+
+<table cellpadding="5" cellspacing="0">
+  <tr>
+    <th>NO</th>
+    <th>Volume of Titrate (mL)</th>
+    <th colspan="2">Burette Reading (mL)</th>
+    <th>Volume of Titrant used (mL)</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td><em>Initial</em></td>
+    <td><em>Final</em></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Normality of Titrate used, N1=.............N.<br>
+
+Volume of Titrate used, V1 =..............mL.<br>
+
+Volume of Titrant Used, V2 =..............mL.<br>
+
+Therefore, the Normality of Titrant  N2= $\frac{N_1V_1}{V_2}$ = ....................N
+
+The amount of substance in the whole of the given solution =
+
+$$\frac{\text{Atomic weight}\times \text{Normality}\times \text{Volume of the given solution upto which it is made up}}{1000}$$
+
+$$=...................... \text{g}$$
+
+## Result:
+<p>The amount of substance in the whole of the given solution = .............. g.</p>
+
+<hr>
+
+<p><strong>Points to Remember while Performing the Experiment in a Real Laboratory:</strong></p>
+
+<ul>
+  <li>Always wear a lab coat and gloves when in the lab.</li>
+  <li>Switch on the exhaust fan upon entering the lab, and ensure all required chemicals and reagents are available. If not, prepare the reagents using appropriate components.</li>
+  <li>Properly adjust the flame of the Bunsen burner. A proper flame is a small blue cone—not a large plume or an orange flame.</li>
+  <li>Clean all working apparatus with chromic acid and distilled water, and ensure they are free from water droplets before starting the experiment.</li>
+  <li>Calibrate the electronic weighing balance before taking any measurements.</li>
+  <li>Clean all glassware with soap and distilled water. Once the experiment is completed, recap the reagent bottles.</li>
+  <li>Before leaving the lab, switch off the lights, exhaust fan, and gas cylinder.</li>
+  <li>Discard used gloves in the appropriate waste bin.</li>
+</ul>
+
+
 <br><br><br><br><br>
 
 # Procedure to View the Experiment Animation.
