@@ -1,6 +1,7 @@
 ### Procedure
 
-## Follow the procedure to access the animation of the experiment.
+<br><br><br><br><br>
+# Follow the procedure to access the animation of the experiment.
 
    <link rel="stylesheet" href="images/flash/main.css">
 <div class="download-section" style="text-align: center;">
