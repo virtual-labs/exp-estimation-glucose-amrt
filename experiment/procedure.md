@@ -63,19 +63,22 @@
 .tooltip {
   position: absolute;
   right: 0;
-  top: -25px;
+  top: -30px;
   background: #333;
   color: #fff;
   padding: 3px 8px;
   font-size: 12px;
   border-radius: 4px;
   opacity: 0;
-  transition: opacity 0.3s;
+  transform: translateY(5px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
   pointer-events: none;
+  z-index: 10;
 }
 
 .tooltip.show {
   opacity: 1;
+  transform: translateY(0);
 }
 </style>
 <div class="download-section" style="text-align: center;">
@@ -107,10 +110,16 @@
 
   function copyLink() {
     const text = document.getElementById("copyText").textContent;
+    const tooltip = document.getElementById("tooltip");
+
     navigator.clipboard.writeText(text).then(() => {
-      const tooltip = document.getElementById("tooltip");
-      tooltip.style.display = "inline";
-      setTimeout(() => tooltip.style.display = "none", 1000);
+      // Show the tooltip
+      tooltip.classList.add("show");
+
+      // Hide after 1 second
+      setTimeout(() => {
+        tooltip.classList.remove("show");
+      }, 1000);
     });
   }
 </script>
