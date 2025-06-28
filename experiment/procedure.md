@@ -3,7 +3,81 @@
 <br><br><br><br><br>
 # Follow the procedure to access the animation of the experiment.
 
-   <link rel="stylesheet" href="images/flash/main.css">
+<style>
+.download-section {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.download-link {
+  display: inline-flex;
+  align-items: center;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.download-link:hover {
+  background-color: #0056b3;
+}
+
+.download-link svg {
+  margin-right: 8px;
+}
+
+.copy-container {
+  display: flex;
+  align-items: center;
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 8px;
+  max-width: 600px;
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+.link-text {
+  flex: 1;
+  word-break: break-word;
+}
+
+.copy-icon {
+  cursor: pointer;
+  padding: 5px;
+  margin-left: 10px;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.copy-icon:hover {
+  background-color: #ccc;
+}
+
+.tooltip {
+  position: absolute;
+  right: 0;
+  top: -25px;
+  background: #333;
+  color: #fff;
+  padding: 3px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+.tooltip.show {
+  opacity: 1;
+}
+</style>
 <div class="download-section" style="text-align: center;">
     <a href="simulation/flash/flashplayer.exe" class="download-link" download>
       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="white" viewBox="0 0 16 16">
