@@ -1,6 +1,7 @@
 ### Procedure
 
 <br><br><br><br><br>
+
 # Follow the procedure to access the animation of the experiment.
 
 <style>
@@ -99,7 +100,7 @@
   <p><h4>Flash Content link:</h4></p>
   <span class="link-text" id="copyText"></span>
   <div class="copy-icon" onclick="copyLink()">📋</div>
-  <div class="tooltip" id="tooltip" style="display: none;">Copied!</div>
+  <div class="tooltip" id="tooltip">Copied!</div>
 </div>
 
 <script>
@@ -129,7 +130,7 @@
 <strong>▶ Windows system</strong><br>
 <strong>Step 1:</strong> Open Flash Player<br>
 <img src="images/flash/figure1.jpg" alt="Flash Debugger" width="500px"><br>
-<strong>Step 2:</strong> Copy the Flash content link provided above.<br>
+<strong>Step 2:</strong> Copy the Flash content link by click the 📋 icon provided above.<br>
 
 <strong>Step 3:</strong> Click <em>File → Open</em> from the Flash Player menu.<br>
 <strong>Step 4:</strong> Paste the Flash content link in the Open window of the Flash Player and click the OK button.<br>
@@ -143,7 +144,7 @@ For Fedora: <code>sudo dnf install wine</code><br>
 <strong>Step 2:</strong> Open terminal and navigate to the folder where the Flash Player is downloaded.<br>
 <strong>Step 3:</strong> Open the Flash Player using <code>wine flashplayer.exe</code><br>
 <img src="images/flash/figure1.jpg" alt="Flash Debugger" width="500px"><br>
-<strong>Step 4:</strong> Copy the Flash content link provided above.<br>
+<strong>Step 4:</strong> Copy the Flash content link by click the 📋 icon provided above.<br>
 <strong>Step 5:</strong> Click <em>File → Open</em> from the Flash Player menu.<br>
 <strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br>
 <img src="images/flash/figure2.jpg" alt="Open Flash Link" width="500px">
