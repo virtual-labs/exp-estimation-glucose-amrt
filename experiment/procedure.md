@@ -2,7 +2,7 @@
 
 <br><br><br><br><br>
 
-# Follow the procedure to access the animation of the experiment.
+# Procedure to View the Experiment Animation.
 
 <style>
 .download-section {
