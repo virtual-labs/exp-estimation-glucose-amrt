@@ -17,11 +17,11 @@
 
  <pre>https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</pre>
 
- <div class="copy-container">
+<div class="copy-container">
   <p><h4>Flash Content link:</h4></p>
   <span class="link-text" id="copyText"></span>
   <div class="copy-icon" onclick="copyLink()">📋</div>
-  <div class="tooltip" id="tooltip">Copied!</div>
+  <div class="tooltip" id="tooltip" style="display: none;">Copied!</div>
 </div>
 
 <script>
