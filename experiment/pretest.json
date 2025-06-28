@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Glucose when heated with CH₃OH in presence of dry HCl gas gives α and β-methyl glucosides because it contains --------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "–CH₂OH group",
+        "b": "a ring structure",
+        "c": "an aldehyde group",
+        "d": "Five hydroxyl groups"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The –CH₂OH group is part of the structure, but not the reason for glucoside formation.",
+        "b": "Correct. The ring structure enables hemiacetal formation with methanol.",
+        "c": "The aldehyde group is involved in oxidation, not glucoside formation.",
+        "d": "Hydroxyl groups are reactive, but ring structure is key for glucosides."
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Glucose gives silver mirror with Tollen's reagent. It shows the presence of -----------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "an alcoholic group",
+        "b": "a ketonic group",
+        "c": "an acidic group",
+        "d": "an aldehydic group"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Alcoholic groups do not give Tollen's test.",
+        "b": "Ketones generally don't respond to Tollen’s reagent.",
+        "c": "Acids are not detected with Tollen’s reagent.",
+        "d": "Correct. Tollen's test detects aldehyde groups."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
