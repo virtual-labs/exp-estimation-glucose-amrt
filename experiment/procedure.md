@@ -1,9 +1,7 @@
 ### Procedure
 
+## Follow the procedure to access the animation of the experiment.
 
-
-
-## Follow the procedure to access the animation of the experiment. 
    <link rel="stylesheet" href="images/flash/main.css">
 <div class="download-section" style="text-align: center;">
     <a href="simulation/flash/flashplayer.exe" class="download-link" download>
@@ -15,11 +13,32 @@
     </a>
   </div>
 
-
 <p><h4>Flash Content link: </h4> </p>
 
  <pre>https://virtual-labs.github.io/exp-estimation-glucose-amrt/simulation/flash/simulation/index.swf</pre>
 
+ <div class="copy-container">
+  <p><h4>Flash Content link:</h4></p>
+  <span class="link-text" id="copyText"></span>
+  <div class="copy-icon" onclick="copyLink()">📋</div>
+  <div class="tooltip" id="tooltip">Copied!</div>
+</div>
+
+<script>
+  const currentUrl = window.location.href;
+  const basePath = currentUrl.substring(0, currentUrl.lastIndexOf("/"));
+  const swfPath = basePath + "/simulation/flash/simulation/index.swf";
+  document.getElementById("copyText").textContent = swfPath;
+
+  function copyLink() {
+    const text = document.getElementById("copyText").textContent;
+    navigator.clipboard.writeText(text).then(() => {
+      const tooltip = document.getElementById("tooltip");
+      tooltip.style.display = "inline";
+      setTimeout(() => tooltip.style.display = "none", 1000);
+    });
+  }
+</script>
 
 <h2>Instructions to run the Flash simulator on your system:</h2>
 
@@ -44,6 +63,3 @@ For Fedora: <code>sudo dnf install wine</code><br>
 <strong>Step 5:</strong> Click <em>File → Open</em> from the Flash Player menu.<br>
 <strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br>
 <img src="images/flash/figure2.jpg" alt="Open Flash Link" width="500px">
-
-
-
