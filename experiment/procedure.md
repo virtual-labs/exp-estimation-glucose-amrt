@@ -6,10 +6,10 @@
 
 <style>
 .download-section {
-  background: #007bff;
-  padding: 20px;
+  /* background: #fff; */
+  padding: 5px;
   border-radius: 12px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .download-link {
