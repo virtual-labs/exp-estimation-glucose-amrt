@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Glucose when heated with CH₃OH in presence of dry HCl gas gives α and β-methyl glucosides because it contains --------",
+      "answers": {
+        "a": "–CH₂OH group",
+        "b": "a ring structure",
+        "c": "an aldehyde group",
+        "d": "Five hydroxyl groups"
+      },
+      "explanations": {
+        "a": "The –CH₂OH group is part of the structure, but not the reason for glucoside formation.",
+        "b": "Correct. The ring structure enables hemiacetal formation with methanol.",
+        "c": "The aldehyde group is involved in oxidation, not glucoside formation.",
+        "d": "Hydroxyl groups are reactive, but ring structure is key for glucosides."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Glucose gives silver mirror with Tollen's reagent. It shows the presence of -----------",
+      "answers": {
+        "a": "an alcoholic group",
+        "b": "a ketonic group",
+        "c": "an acidic group",
+        "d": "an aldehydic group"
+      },
+      "explanations": {
+        "a": "Alcoholic groups do not give Tollen's test.",
+        "b": "Ketones generally don't respond to Tollen’s reagent.",
+        "c": "Acids are not detected with Tollen’s reagent.",
+        "d": "Correct. Tollen's test detects aldehyde groups."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The structure pictured is the Haworth structure of ………",
+      "answers": {
+        "a": "beta-D-glucose",
+        "b": "beta-D-galactose",
+        "c": "alpha-D-galactose",
+        "d": "alpha-D-glucose"
+      },
+      "explanations": {
+        "a": "beta-D-glucose is commonly shown in Haworth forms; likely correct if image was shown.",
+        "b": "Galactose differs in configuration at C4 from glucose.",
+        "c": "Incorrect alpha anomer assumed without image.",
+        "d": "Alpha and beta differ in OH orientation at anomeric carbon."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Methylene blue is a heterocyclic aromatic chemical compound with the molecular formula ------",
+      "answers": {
+        "a": "C₁₆H₁₈N₃SCl",
+        "b": "C₁₆H₁₈N₃Cl",
+        "c": "C₁₆H₁₈N₃SCl₂",
+        "d": "C₁₆H₁₈N₂SCl"
+      },
+      "explanations": {
+        "a": "Correct molecular formula for methylene blue.",
+        "b": "Incorrect, missing sulfur atom.",
+        "c": "Incorrect, has one extra chlorine atom.",
+        "d": "Incorrect, nitrogen count is off."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    }
+  ]
+}
